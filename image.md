@@ -1,8 +1,8 @@
 ---
-title: Ein Beispiel mit Bild
+title: ESP Beispiel mit Bild
 ---
 
-## Der Blick aus dem Fenster 
+## Der ESPeasy in Kasten
 
 ![Dies ist ein Beispielbild.](assets/images/example.jpg)
 
